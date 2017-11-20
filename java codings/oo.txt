@@ -1,0 +1,10 @@
+20/10/16
+  errors: in controller
+if the requested mapping is not present -404-page notfound
+5xx-if the page is there not in proper
+path
+----
+two ways to give the path:
+1)relative path :from current folder---- /login.jsp
+2)absoute path :from the root folder----
+                                 shopping cartfrontend
